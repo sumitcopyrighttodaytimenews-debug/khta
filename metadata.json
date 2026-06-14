@@ -1,0 +1,6 @@
+{
+  "name": "Wine Shop Khata - Pro Max",
+  "description": "Wine shop ledger system to digitally manage customer credit (udhaar) and payments (jama).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
